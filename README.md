@@ -1,2 +1,3 @@
 # hello-world
 First Repository it is a try...
+we are making our first work on this platanform lets see how is it working
